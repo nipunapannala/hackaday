@@ -14,3 +14,6 @@ this folder contains all the materials from SLIIT hackaday workshop
 ## Darknet
 ## Many things related to Darknet can be found in http://thehiddenwiki.org/
 -------------------------------------------------------------------------------
+## Bitcoins
+##Bitcoin is a form of digital currency, created and held electronically. No one controls it. Bitcoins aren't printed, like dollars or euros – they're produced by people, and increasingly businesses, running computers all around the world...
+---------------------------------------------------------------------------------
