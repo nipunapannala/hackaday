@@ -41,7 +41,11 @@ http://www.irongeek.com/i.php?page=security/altds
 http://overthewire.org/wargames/bandit/bandit6.html
 
 bandit 1 - boJ9jbbUNNfktd78OOpsqOltutMc3MY1
+
 bandit 2 - CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
+
 bandit 3 - UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
+
 bandit 4 - pIwrPrtPN36QITSp3EQaw936yaFoFgAB
+
 bandit 5 - koReBOKuIDDepwhWk7jZC0RTdopnAYKh
