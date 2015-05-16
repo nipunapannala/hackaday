@@ -17,3 +17,6 @@ this folder contains all the materials from SLIIT hackaday workshop
 ## Bitcoins
 ##Bitcoin is a form of digital currency, created and held electronically. No one controls it. Bitcoins aren't printed, like dollars or euros – they're produced by people, and increasingly businesses, running computers all around the world...
 ---------------------------------------------------------------------------------
+## Kali - Metagoofil
+Get the contents from dialog.lk
+metagoofil -d dialog.lk -t pdf,doc -l 200 -n 50 -o dialog results.html
