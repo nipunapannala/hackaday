@@ -34,4 +34,7 @@ http://www.computersecuritystudent.com/FORENSICS/AUTOPSY/lesson1/index.html
 http://map.ipviking.com/
 http://www.digitalattackmap.com/#anim=1&color=0&country=US&list=2&time=16161.2&view=map
 
+#NTFS and Alternative Data Streams
+http://www.irongeek.com/i.php?page=security/altds
+
 
