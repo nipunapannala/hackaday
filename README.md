@@ -6,7 +6,7 @@ this folder contains all the materials from SLIIT hackaday workshop
 
 ### camera hakcing
 ## http://www.hex.at:3000/control/userimage.html to check the live stream of car park.
-## http://120.127.252.110/control/userimage.html -- Live stream of actractive seaside road... :)
+## http://120.127.252.110/control/userimage.html -- Live stream of seaside road...
 ## Finished Camera Hacking....
 
 
