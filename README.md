@@ -27,6 +27,6 @@ metagoofil -d dialog.lk -t pdf,doc -l 200 -n 50 -o dialog results.html
 get the emails from slt.lk
 theharvester -d slt.lk -l 500 -b google >emalilist_slt.txt
 
-Digital Forensics
+#Digital Forensics
 http://www.computersecuritystudent.com/FORENSICS/AUTOPSY/lesson1/index.html
 
